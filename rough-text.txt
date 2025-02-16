@@ -1,0 +1,44 @@
+Branching & merging
+
+git branch name
+
+git checkout feature1
+
+commit 1,2
+bug 
+
+
+merge****
+
+git merge feature1 -m "merge feature 1"
+
+
+**merge conflicts****
+
+/**********Feature branches***********/
+
+1. create a feature branch
+2. upload feature branch to GitHub.
+3. create a pull request.
+4. merge feature branch into master/main branch.
+
+
+---
+git branch new-feature
+git checkout new-feature
+git add .
+git commit -m "new feature"
+
+
+-CREAE NEW REPO
+-git remote add origin url
+git checkout master
+git push origin master
+
+
+git checkout new-feature
+git push origin new-feature  
+
+
+git checkout master
+git pull origin master
